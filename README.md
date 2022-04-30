@@ -6,7 +6,7 @@ Construção de um jogo da velha, utilizando somente HTML para estruturar nosso 
 
 ## Tecnologias
 
-* HTMl5
+* HTML5
 * CSS3
 * Javascript
 
