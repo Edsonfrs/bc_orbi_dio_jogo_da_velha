@@ -18,8 +18,9 @@ Engenheiro de software, PicPay
 
 ## Entidade
 
-<img src="./img/logo-dio.svg">
-[![DIO](img src="./img/logo-dio.svg)](https://dio.me/sign-up?ref=8EJE9QGVQT)
+
+[<img alt="Logo DIO" width="100px" src="./img/logo-dio.png" />](https://dio.me/sign-up?ref=8EJE9QGVQT)
+
 
 Digital Inovation one 
 
@@ -28,6 +29,7 @@ Digital Inovation one
 Edson souza
 
 [Linkedin](https://www.linkedin.com/in/edsonfrs/)
+
 [GitHub](https://github.com/Edsonfrs)
 
 
